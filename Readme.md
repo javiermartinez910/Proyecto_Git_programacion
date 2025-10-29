@@ -5,4 +5,5 @@ información que le faciliten a la administración Distrital la gestión integra
 relacionados con portadores del virus responsable del COVID-19, para orientar la
 planeación, implementación y medición de estrategias y programas de mitigación,
 control, contención, planes de desplazamiento y generación de alertas, dirigidos a mitigar
-la expansión de la pandemia relacionada con el virus, en el Distrito de Santiago de Cali
+la expansión de la pandemia relacionada con el virus, en el Distrito de Santiago de Cali.
+Estoy practicando GitHUb.
